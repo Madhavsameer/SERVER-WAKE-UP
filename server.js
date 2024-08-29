@@ -7,6 +7,7 @@ const urls = [
   'https://int9solutions-assignment-1.onrender.com/api/auth', // Replace with your second app URL
   'https://bytive-assignment3-1kcr.onrender.com', // Replace with your third app URL
    ' https://server-wake-up-1.onrender.com',
+  'https://cloud-kitchen-fullstack.onrender.com',
   // Add more URLs as needed
 ];
 
