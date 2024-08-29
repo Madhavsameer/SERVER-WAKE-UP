@@ -3,8 +3,8 @@ const axios = require('axios');
 // List of URLs to keep alive
 const urls = [
   'https://mern-blog-59mo.onrender.com/api/user',  // Replace with your first app URL
-  'https://int9solutions-assignment-1.onrender.com',         // Replace with your second app URL
-  'https://bytive-assignment3-1kcr.onrender.com',       // Replace with your third app URL
+  'https://int9solutions-assignment-1.onrender.com/api/auth',         // Replace with your second app URL
+  // 'https://bytive-assignment3-1kcr.onrender.com',       // Replace with your third app URL
   // Add more URLs as needed
 ];
 
