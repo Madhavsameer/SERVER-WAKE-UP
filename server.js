@@ -6,6 +6,7 @@ const urls = [
   'https://mern-blog-59mo.onrender.com/api/user',  // Replace with your first app URL
   'https://int9solutions-assignment-1.onrender.com/api/auth', // Replace with your second app URL
   'https://bytive-assignment3-1kcr.onrender.com', // Replace with your third app URL
+   ' https://server-wake-up-1.onrender.com',
   // Add more URLs as needed
 ];
 
