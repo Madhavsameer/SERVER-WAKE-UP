@@ -1,4 +1,4 @@
-import axios from 'axios';
+const axios = require('axios');
 
 // List of URLs to keep alive
 const urls = [
